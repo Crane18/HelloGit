@@ -1,1 +1,2 @@
 this is featureB
+edit this file for testing 'git log origin/featureB ^featureB
